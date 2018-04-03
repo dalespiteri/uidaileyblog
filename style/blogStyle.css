@@ -194,6 +194,38 @@ a {
   background-position: left;
 }
 
+.thumb004 {
+  background-image: url("../images/blogThumbs/UIDailey004.png");
+}
+
+.thumb005 {
+  background-image: url("../images/blogThumbs/UIDailey005.png");
+  background-position: left;
+}
+
+.thumb006 {
+  background-image: url("../images/blogThumbs/UIDailey006.png");
+}
+
+.thumb007 {
+  background-image: url("../images/blogThumbs/UIDailey007.png");
+}
+
+.thumb008 {
+  background-image: url("../images/blogThumbs/UIDailey008.png");
+  background-position: 75%;
+}
+
+.thumb009 {
+  background-image: url("../images/blogThumbs/UIDailey009.png");
+  background-position: 90%;
+}
+
+.thumb010 {
+  background-image: url("../images/blogThumbs/UIDailey010.png");
+  background-position: 85%;
+}
+
 .blogCopy {
   width: 67.5%;
   padding: 30px 60px;
